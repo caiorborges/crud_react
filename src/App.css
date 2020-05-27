@@ -37,6 +37,14 @@
   }
 }
 
-h5{
-  font-size: 26;
+button{
+  border-radius: 5px;
+}
+button:hover{
+  background-color: black ;
+  color: white;
+  cursor: pointer;
+}
+h4 {
+  text-decoration: underline;
 }
