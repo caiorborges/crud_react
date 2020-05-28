@@ -20,6 +20,10 @@ export default class UserComponent extends Component{
           console.log(err)
         })
     }
+
+    onSubmmit() {
+      console.log("Testes!")
+    }
     
     render(){
 
