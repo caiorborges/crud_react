@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import Form from './FormCadastro';
+import UserComponent from './UserComponent';
 
 
 function App() {
   return (
-    <Form />
+    <UserComponent />
   );
 }
 
